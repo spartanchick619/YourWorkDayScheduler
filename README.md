@@ -6,9 +6,11 @@ Create a simple calendar application that allows a user to save events for each 
 
 ## Screenshot
 
+![Application screenshot](./screenshot.png)
+
 ## Application Link
 
-
+[https://spartanchick619.github.io/smu-04-challenge/](https://spartanchick619.github.io/smu-04-challenge/)
 
 ## User Story
 
