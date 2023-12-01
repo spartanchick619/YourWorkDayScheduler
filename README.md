@@ -1,4 +1,4 @@
-# SMU Challenge 5: Work Day Scheduler
+# Your Work Day Scheduler
 
 ## Our Task
 
